@@ -26,7 +26,7 @@ from sklearn import linear_model
 ###########
 ticker = ('AAPL', 'MSFT','SPY','WMT')
 option = (50,100,200)
-n = st.sidebar.selectbox('Combien de simulation ?', option)
+n = st.sidebar.selectbox('Combien de jour prédit ?', option)
 
 
 today = datetime.date.today()
