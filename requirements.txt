@@ -1,8 +1,9 @@
 
-pip install matplotlib            # latest version
-pip install datetime            # latest version
-pip install yfinance            # latest version
-pip install sklearn            # latest version
-pip install math            # latest version
-pip install yfinance            # latest version
+streamlit
+matplotlib           
+datetime           
+yfinance          
+sklearn         
+math          
+yfinance           
 
