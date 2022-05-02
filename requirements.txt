@@ -3,7 +3,6 @@ streamlit
 matplotlib           
 datetime           
 yfinance          
-sklearn         
-math          
+sklearn                  
 yfinance           
 
